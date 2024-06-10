@@ -1,0 +1,2873 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [26/Feb/2024 10:09:58] "GET /get_data?bill_id=110_hr37 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Feb/2024 10:09:59] "GET /search_docs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Feb/2024 10:11:46] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [26/Feb/2024 11:04:45] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Feb/2024 11:04:45] "GET /get_data?bill_id=110_hr37 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Feb/2024 11:04:45] "GET /get_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Feb/2024 11:04:45] "GET /get_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Feb/2024 11:04:45] "GET /search_docs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Feb/2024 11:04:48] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:02:35] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:09:26] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:11:35] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:12:58] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:14:17] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:15:03] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:19:03] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:19:20] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:19:40] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:20:19] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:20:39] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+ERROR:root:An error occurred while fetching data from Azure Blob Storage: Connection string is either blank or malformed.
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:35:38] "GET /get_data_azure HTTP/1.1" 200 -
+ERROR:root:An error occurred while fetching data from Azure Blob Storage: Connection string is either blank or malformed.
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:41:30] "GET /get_data_azure?container_name=python-test HTTP/1.1" 200 -
+ERROR:root:An error occurred while fetching data from Azure Blob Storage: Connection string is either blank or malformed.
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:42:19] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+ERROR:root:An error occurred while fetching data from Azure Blob Storage: Connection string is either blank or malformed.
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:44:17] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+ERROR:root:An error occurred while fetching data from Azure Blob Storage: Connection string is either blank or malformed.
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:45:13] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+ERROR:root:An error occurred while fetching data from Azure Blob Storage: Connection string is either blank or malformed.
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:46:04] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+ERROR:root:An error occurred while fetching data from Azure Blob Storage: Connection string is either blank or malformed.
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:47:02] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+ERROR:root:An error occurred while fetching data from Azure Blob Storage: Connection string is either blank or malformed.
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:48:06] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+ERROR:root:An error occurred while fetching data from Azure Blob Storage: Connection string is either blank or malformed.
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 16:48:40] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+ERROR:root:An error occurred while fetching data from Azure Blob Storage: Connection string is either blank or malformed.
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 08:46:38] "[35m[1mGET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:05:25] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+ERROR:root:An error occurred while fetching data from Azure Blob Storage: Please specify a container name.
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:05:43] "[35m[1mGET /get_data_azure HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:05:54] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:06:19] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv&bill_id=109_s2408 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:10:07] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv&bill_id=109_s2408 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:10:55] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv&bill_id=110_hr37 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:11:22] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:14:16] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:14:52] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv&bill_id=111_hr3141 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:16:30] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv&bill_id=111_hr3141 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:16:43] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+ERROR:root:An error occurred: 'dict' object has no attribute 'split'
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:17:51] "[35m[1mGET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:18:19] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:18:45] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2024 12:22:17] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-324-240
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2024 11:16:03] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2024 11:16:07] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2024 11:16:11] "[33mGET /search_docs HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 10:13:19] "GET /get_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 10:13:23] "GET /search_docs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 10:13:28] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 10:13:32] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 10:15:56] "GET /get_data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 10:34:38] "GET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 10:43:04] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 10:44:29] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 10:45:45] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:04:39] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:05:14] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:06:41] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:06:57] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:07:38] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:08:46] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:09:04] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:27:08] "[33mPOST /powerpoint HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:27:12] "[33mGET /powerpoint HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:27:24] "[35m[1mGET /powerpoint HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:28:05] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:29:13] "[35m[1mGET /get HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:30:00] "[35m[1mGET /get HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:30:51] "[33mGET /get HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:41:47] "[35m[1mPOST /create_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:46:31] "[35m[1mPOST /create_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:53:28] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:53:51] "[33mGET /GeneratedPresentations/example_presentation.pptx HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:53:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:55:45] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:56:27] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:57:04] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:57:18] "[33mGET /GeneratedPresentations/presentation.pptx.pptx HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 11:57:37] "[33mGET /GeneratedPresentations/presentation.pptx.pptx HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 12:01:30] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 15:10:33] "[35m[1mPOST /create_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 15:10:44] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 15:11:11] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 15:13:59] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 15:14:56] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 15:15:45] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Mar/2024 15:18:06] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 17:12:13] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 17:12:26] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 17:13:40] "[35m[1mPOST /create_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 17:13:40] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 17:15:44] "[35m[1mPOST /create_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 17:15:44] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 17:19:25] "[33mPOST /create_ppt_text HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 17:19:25] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:39:24] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: HTTPSConnectionPool(host='localhost', port=443): Max retries exceeded with url: /generate_completion (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002AF446717F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:41:10] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: HTTPSConnectionPool(host='localhost', port=443): Max retries exceeded with url: /generate_completion (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002095C891610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:41:52] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred while generating completion: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:44:19] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: create_ppt_text() takes 0 positional arguments but 1 was given
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:44:19] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:44:52] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:45:47] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred while generating completion: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:46:12] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: create_ppt_text() takes 0 positional arguments but 1 was given
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:46:12] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:48:30] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:48:31] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:48:37] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:49:07] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:52:25] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred while generating completion: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:52:43] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 'Response' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:52:43] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred while generating completion: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:53:53] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: create_ppt_text() takes 0 positional arguments but 1 was given
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:53:53] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred while generating completion: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:54:22] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: create_ppt_text() takes 0 positional arguments but 1 was given
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 10:54:22] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred while generating completion: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:21:45] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: create_ppt_text() takes 0 positional arguments but 1 was given
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:21:45] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:23:31] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:25:22] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:25:41] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:26:57] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:28:49] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:29:27] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:30:10] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:30:45] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred while generating completion: 'str' object has no attribute 'json'
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:38:36] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:39:20] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:39:48] "POST /generate_completion HTTP/1.1" 200 -
+ERROR:root:An error occurred while generating completion: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:41:08] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: create_ppt_text() takes 0 positional arguments but 1 was given
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:41:08] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:45:28] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:45:39] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:46:24] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:48:35] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:49:15] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:49:40] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:55:44] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:18:26] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:19:15] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:20:09] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:21:25] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:21:49] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:28:58] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:32:17] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:32:48] "[33mGET /get_data_azure?container_name=python-test&blob_name=bill_sum_data.csv HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:33:16] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:33:31] "[33mPOST /create_ppt HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:36:12] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:37:42] "[35m[1mPOST /create_ppt_text HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 15:40:27] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 17:31:10] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 17:33:28] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 18:58:45] "GET /get_contacts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:00:38] "GET /get_contacts?Department=Digital%20Catalyst%20Team HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:00:55] "GET /get_contacts?Department=Catalyst%20Team HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:01:01] "GET /get_contacts HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:16:37] "GET /get_contacts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:16:56] "GET /get_contacts?Department=Finance%20 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:17:12] "GET /get_contacts?Title=Bank%20 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:17:25] "GET /get_contacts?﻿Title=Bank%20 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:17:44] "GET /get_contacts?Contact_name=Asmi%20 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:17:58] "GET /get_contacts?Contact_Name=Asmi%20 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:18:04] "GET /get_contacts?Contact_Name=As HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:18:08] "GET /get_contacts?Contact_Name=Asmi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:18:37] "GET /get_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:18:45] "GET /get_data?bill_id=110 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:19:06] "GET /get_data?title=Marine HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:37:32] "GET /get_contacts HTTP/1.1" 200 -
+ERROR:root:An error occurred: module 'openai' has no attribute 'Language'
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:37:46] "[35m[1mGET /get_contacts?Department=Accounts HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: module 'openai' has no attribute 'Language'
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:41:41] "[35m[1mGET /get_contacts?Department=Accounts HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2024 19:42:02] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:17:17] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:17:31] "GET /get_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:17:37] "GET /get_contacts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:17:52] "GET /get_contacts?Contact_Email=Asmita HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:17:57] "GET /get_contacts?Contact_Email HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:17:59] "GET /get_contacts?Contact_ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:18:16] "GET /get_contacts?Contact_Email=Asm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:18:27] "GET /get_contacts?Contact_Name=Asmi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:18:47] "GET /get_contacts?Contact_Name=Asmi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:18:52] "GET /get_contacts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:19:08] "GET /get_contacts?Department=Digital%20Catalyst%20Team HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:22:43] "GET /get_contacts?Department=Digital%20Catalyst%20Team HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:22:51] "GET /get_contacts?Department=Digital%20 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:24:08] "GET /get_contacts?Contact_Email=Digital%20 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:24:15] "GET /get_contacts?Contact_Email=Asm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:35:00] "GET /get_contacts?Department=Salary HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:35:07] "GET /get_contacts?Department=bank HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:35:09] "GET /get_contacts?Department= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:35:15] "GET /get_contacts?Department=Team HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:35:29] "GET /get_contacts?Department=Technology HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:48:26] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: Missing required arguments; Expected either ('messages' and 'model') or ('messages', 'model' and 'stream') arguments to be given
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:50:03] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: Error code: 400 - {'error': {'message': "Additional properties are not allowed ('prompt' was unexpected) - 'messages.0'", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:51:38] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'Choice' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:52:10] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'Choice' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:53:40] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'ChatCompletion' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:55:54] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'ChatCompletion' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:58:58] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'ChatCompletion' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 10:59:49] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 11:01:45] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 11:02:21] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'ChatCompletion' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 11:03:36] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'Choice' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 11:06:06] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'Choice' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 11:06:32] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 11:08:12] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: Missing required arguments; Expected either ('messages' and 'model') or ('messages', 'model' and 'stream') arguments to be given
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 11:09:24] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'Choice' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 11:10:40] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'Choice' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 11:11:50] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: missing ), unterminated subpattern at position 91 (line 6, column 8)
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 11:13:15] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: missing ), unterminated subpattern at position 116 (line 9, column 6)
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 14:14:04] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'Choice' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 14:15:00] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: Object of type ChatCompletion is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 14:20:21] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'tuple' object has no attribute 'message'
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 14:22:37] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'str' object has no attribute 'content'
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 14:23:44] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: Object of type ChatCompletion is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 14:24:35] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: missing ), unterminated subpattern at position 106 (line 9, column 6)
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 14:27:38] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: missing ), unterminated subpattern at position 102 (line 9, column 6)
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 14:31:58] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: missing ), unterminated subpattern at position 102 (line 9, column 6)
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 14:33:33] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: Error code: 404 - {'error': {'code': 'DeploymentNotFound', 'message': 'The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.'}}
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 15:17:50] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: Error code: 404 - {'error': {'code': 'DeploymentNotFound', 'message': 'The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.'}}
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 15:18:47] "[35m[1mGET /get_contacts?Department=Technology HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 15:19:02] "GET /get_contacts HTTP/1.1" 200 -
+ERROR:root:An error occurred: Error code: 404 - {'error': {'code': 'DeploymentNotFound', 'message': 'The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.'}}
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 15:19:19] "[35m[1mGET /get_contacts?Department=IT HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: Error code: 404 - {'error': {'code': 'DeploymentNotFound', 'message': 'The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.'}}
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 15:26:18] "[35m[1mGET /get_contacts?Department=IT HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: missing ), unterminated subpattern at position 96 (line 6, column 8)
+INFO:werkzeug:127.0.0.1 - - [14/Mar/2024 15:29:05] "[35m[1mGET /get_contacts?Department=IT HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 09:57:11] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 09:58:32] "GET /get_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 09:58:44] "GET /get_data?bill_id=110_hr37 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 13:06:19] "GET /get_contacts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 13:06:32] "GET /get_contacts?department=Dig HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 11:52:11] "[33mPOST /create_ppt_text HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 11:52:30] "[35m[1mPOST /create_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 11:54:45] "POST /create_ppt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:14:05] "[31m[1mPOST /generate_ppt HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:14:20] "[31m[1mPOST /generate_ppt HTTP/1.1[0m" 415 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:15:13] "[31m[1mPOST /generate_ppt HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:15:46] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:16:55] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:17:12] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:17:41] "[31m[1mPOST /generate_ppt HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:17:57] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:18:17] "[31m[1mPOST /generate_ppt HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:18:26] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:19:03] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:20:04] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:20:40] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:21:38] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:24:35] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:26:00] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:28:57] "GET /get_contacts?department=Dig HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:29:07] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:30:31] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:31:25] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:31:48] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:32:13] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:34:05] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:34:50] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:35:41] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:36:10] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 11:36:49] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 14:38:56] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 14:43:56] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 14:46:03] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:03:32] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:05:28] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:06:15] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:07:59] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:15:13] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:17:56] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:19:37] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:22:55] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:27:14] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:29:26] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:30:20] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:34:13] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 15:59:20] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 16:10:26] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 16:12:36] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 16:38:35] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/Mar/2024 16:47:38] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 10:29:14] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 10:30:37] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 10:31:37] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 11:07:18] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 11:08:18] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 11:44:40] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 11:45:14] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 11:46:06] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 11:46:22] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 12:10:18] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 12:23:52] "[31m[1mPOST /generate_ppt HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 12:37:34] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 12:43:14] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 12:43:23] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 12:47:40] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 12:48:16] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 12:48:29] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 12:48:38] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2024 12:53:48] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:13:20] "[35m[1mPOST /generate_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:13:31] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:15:46] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:17:04] "POST /generate_ppt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 17:02:19] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 17:06:23] "[31m[1mPOST /download-presentation HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 17:06:39] "GET /download-presentation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 17:08:03] "GET /download-presentation HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 17:12:07] "GET /download-presentation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 17:12:20] "GET /download-presentation HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 17:27:41] "GET /download-presentation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 17:27:50] "GET /download-presentation HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 17:31:18] "GET /download-presentation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 17:31:26] "[36mGET /download-presentation HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Apr/2024 17:32:03] "[36mGET /download-presentation HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:19:37] "[36mGET /download-presentation HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:21:41] "GET /download-presentation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:21:53] "GET /download-presentation HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:30:55] "[35m[1mGET /download-presentation-slides HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:34:46] "GET /download-presentation-slides HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:34:51] "GET /download-presentation-slides HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:43:11] "[35m[1mGET /download-presentation-slides?topic=Python HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:43:12] "GET /download-presentation-slides?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:43:12] "GET /download-presentation-slides?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:43:12] "GET /download-presentation-slides?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:43:12] "[36mGET /download-presentation-slides?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:48:20] "[31m[1mGET /download-presentation-slides HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:48:25] "[31m[1mPOST /download-presentation-slides HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:49:23] "[31m[1mPOST /download-presentation-slides HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:50:31] "POST /download-presentation-slides HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:50:45] "[31m[1mGET /download-presentation-slides HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:50:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:54:34] "[31m[1mPOST /download-presentation-slides HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:55:00] "POST /download-presentation-slides HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:55:08] "[31m[1mPOST /download-presentation-slides HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:55:27] "POST /download-presentation-slides HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:57:00] "[35m[1mGET /download-presentation-slides/Python HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:57:00] "GET /download-presentation-slides/Python?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:57:00] "GET /download-presentation-slides/Python?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:57:00] "GET /download-presentation-slides/Python?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:57:00] "[36mGET /download-presentation-slides/Python?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:58:46] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:58:47] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 11:59:49] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 12:04:50] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 12:14:53] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 12:44:55] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 12:49:02] "GET /download-presentation-slides/Artificial%20intelligence HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 12:49:24] "GET /download-presentation-slides/global%20warming HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:15:11] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 13:45:13] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 14:15:17] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 14:45:21] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 15:15:25] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 15:45:29] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 16:15:33] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 16:45:35] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 17:15:38] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 17:45:41] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 18:15:45] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 18:45:51] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 19:15:54] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 19:46:00] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 20:16:02] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 20:46:05] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 21:16:08] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 21:46:12] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 22:16:16] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 22:46:19] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 23:16:22] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Apr/2024 23:46:25] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 00:16:28] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 00:46:30] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 01:16:34] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 01:46:36] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 02:16:39] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 02:46:43] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 03:16:46] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 03:46:49] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 04:16:51] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 04:46:54] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 05:16:57] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 05:46:59] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 06:17:02] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 06:47:04] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 07:17:06] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 07:47:10] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 08:17:12] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 08:47:16] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 09:17:18] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 09:47:20] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 10:17:23] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 10:47:25] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 11:17:27] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 11:47:30] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 12:17:32] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 12:47:34] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 13:17:36] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 13:47:39] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 14:17:41] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 14:47:45] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 15:17:49] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 15:47:52] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 16:17:56] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 16:47:59] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 17:18:02] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 17:48:05] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 18:18:07] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 18:48:09] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 19:18:12] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 19:48:15] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 20:18:18] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 20:48:22] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 21:18:24] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 21:48:26] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 22:18:32] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 22:48:35] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 23:18:37] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2024 23:48:42] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 00:18:44] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 00:48:47] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 01:18:50] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 01:48:52] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 02:18:55] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 02:48:57] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 03:18:59] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 03:49:02] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 04:19:05] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 04:49:08] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 05:19:09] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 05:49:12] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 06:19:14] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 06:49:16] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 07:19:19] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 07:49:21] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 08:19:24] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 08:49:27] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 09:19:30] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 09:49:33] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 10:19:37] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 10:49:39] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 11:19:41] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 11:49:43] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 12:19:47] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 12:49:50] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 13:19:53] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 13:49:57] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 14:20:00] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 14:50:01] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 15:20:04] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 15:50:06] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 16:20:10] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 16:50:13] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 17:20:15] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 17:50:18] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 18:20:21] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 18:50:25] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 19:20:28] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 19:50:31] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 20:20:34] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 20:50:37] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 21:20:39] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 21:50:42] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 22:20:44] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 22:50:46] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 23:20:48] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2024 23:50:51] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 00:20:54] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 00:50:56] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 01:20:58] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 01:50:59] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 02:21:02] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 02:51:06] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 03:21:09] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 03:51:12] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 04:21:14] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 04:51:17] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 05:21:20] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 05:51:24] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 06:21:28] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 06:51:32] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 07:21:36] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 07:51:37] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 08:21:42] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 08:51:46] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 09:21:49] "GET /download-presentation-slides/Python HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:28:20] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:28:26] "[31m[1mPOST /download-presentation-slides HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:28:32] "[35m[1mGET /download-presentation-slides HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:29:19] "[35m[1mGET /download-presentation-slides HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:29:56] "GET /download-presentation-slides HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:32:08] "[31m[1mGET /download-presentation-slides HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:32:37] "[31m[1mGET /download-presentation-slides HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:37:04] "GET /download_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 17:07:45] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 17:07:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 17:07:52] "[33mGET /start HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 17:07:56] "[33mGET /start HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 17:07:58] "[33mGET /start HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 17:08:21] "[33mGET /start HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 14:47:57] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 14:48:35] "[31m[1mPOST /download_ppt HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [19/Apr/2024 14:48:43] "GET /download_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\get_contacts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:13:50] "GET /get_contacts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:14:13] "GET /get_contacts?Contact_Name=Asmita HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\get_contacts.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:17:08] "GET /get_contacts?Contact_Name=Asmita HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\get_contacts.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:20:04] "GET /get_contacts HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\get_contacts.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:46:33] "[31m[1mPOST /get_data HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:46:37] "GET /get_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:46:43] "GET /get_data?bill_id=110_hr37 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:47:02] "GET /get_data?bill_id=110_hr37 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:47:32] "[33mGET /get_contacts?Contact_Email=Asm HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:47:47] "[33mGET /get_contacts?Contact_Email=Asmita HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:55:32] "GET /get_data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:58:24] "GET /get_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 10:58:37] "GET /get_data?bill_id=110_hr37 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 11:05:57] "GET /search_docs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 11:12:41] "GET /search_docs HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 11:17:56] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\generate_completion.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 11:29:49] "GET /download_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\get_data.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 12:09:24] "GET /get_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 12:09:30] "GET /get_data?bill_id=110_hr37 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 12:09:51] "GET /get_data?summary=National%20Science%20Education HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 12:11:29] "GET /get_data?bill_id=110 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 12:11:38] "[33mGET /search_docs HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\get_contacts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2024 12:13:58] "GET /search_docs HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\search_docs.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\generate_completion.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\download_ppt.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\get_data.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\get_contacts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\get_contacts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\search_docs.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\search_docs.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:16:08] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:16:14] "[33mGET /get_contacts HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:16:20] "[33mGET /get_data?bill_id=110 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:19:04] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:19:04] "[33mGET /get_contacts HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:41:28] "GET /get_contacts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:41:31] "[33mGET /health HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:42:04] "[33mGET /get_contacts HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:44:40] "[33mGET /get_contacts HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:44:43] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:44:46] "[33mGET /get_contacts HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:47:50] "GET /get_contacts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:47:53] "[33mGET /health HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:48:36] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:48:38] "[33mGET /get_contacts HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2024 12:50:35] "[33mGET /get_contacts HTTP/1.1[0m" 404 -
+ERROR:root:An error occurred: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+ERROR:root:An error occurred: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [02/May/2024 11:19:05] "GET /download_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\download_ppt.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [02/May/2024 11:21:48] "[35m[1mGET /download_ppt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\download_ppt.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\download_ppt.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\download_ppt.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\download_ppt.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [02/May/2024 11:29:05] "GET /download_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\download_ppt.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\download_ppt.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [02/May/2024 12:07:47] "GET /download_ppt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\download_ppt.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [02/May/2024 12:11:09] "GET /download_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2024 12:12:12] "GET /download_ppt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2024 12:13:03] "[33mPOST /generate_completion HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [02/May/2024 12:13:33] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2024 12:13:42] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2024 12:13:57] "POST /generate_completion HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 17:50:15] "[33mGET /read_Excel HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 17:51:46] "[33mGET /read_Excel HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 17:53:45] "[33mGET /read_Excel HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 17:54:06] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 17:54:21] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 17:54:54] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 17:56:00] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 17:56:24] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 17:57:19] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 18:02:38] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 18:03:07] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 18:03:23] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 18:03:42] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 18:04:07] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 18:53:07] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [17/May/2024 18:54:49] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\search_docs.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 15:28:51] "GET /search_docs HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:07:17] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:29:15] "GET /read_excel HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:52:50] "[31m[1mGET /search_goals HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:53:01] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:53:59] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:54:25] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:55:12] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:55:31] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:05:52] "[31m[1mPOST /search_docs HTTP/1.1[0m" 405 -
+ERROR:root:An error occurred: generate_embedding() got an unexpected keyword argument 'model'
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:06:00] "[35m[1mGET /search_docs HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: generate_embedding() got an unexpected keyword argument 'model'
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:06:41] "[35m[1mGET /search_docs HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: generate_embedding() got an unexpected keyword argument 'model'
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:07:10] "[35m[1mGET /search_docs HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: generate_embedding() got an unexpected keyword argument 'model'
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:08:29] "[35m[1mGET /search_docs HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:09:56] "[35m[1mGET /search_docs HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:10:20] "GET /search_docs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:12:24] "GET /search_docs HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 10:45:26] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 10:46:29] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 10:46:42] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 10:47:15] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 10:50:20] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 10:51:05] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 10:51:39] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 10:51:54] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 10:52:18] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 10:52:32] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: local variable 'role' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 11:53:04] "[35m[1mGET /search_goals HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: local variable 'role' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 11:53:04] "[35m[1mGET /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: local variable 'role' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 11:56:08] "[35m[1mGET /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: local variable 'role' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 12:03:07] "[35m[1mGET /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: local variable 'role' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 12:08:57] "[35m[1mGET /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 15:29:32] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 15:47:30] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 15:48:55] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 15:50:16] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:25:10] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:25:50] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:44:29] "GET /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:23:53] "[31m[1mGET /search_goals HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:24:05] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:24:27] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:29:00] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:40:59] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'role'
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:45:58] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 10:59:30] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:03:07] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:49:24] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:52:08] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:53:52] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:35:38] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 12:31:04] "[31m[1mPOST /search_goals HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 12:31:31] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 12:32:04] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 12:35:35] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 12:37:00] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 12:37:22] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 12:40:34] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 12:40:58] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 12:43:56] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 12:44:54] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'roles_embedding'
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 15:59:20] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 16:03:22] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 16:03:23] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 16:06:36] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 16:07:30] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'DataFrame' object is not callable
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:19:24] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:20:02] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:24:27] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:25:40] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'role_similarities'
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:29:50] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'DataFrame' object has no attribute 'tolist'
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:32:58] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:33:29] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:33:41] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:34:46] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:35:06] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:35:38] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:35:55] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:43:04] "[31m[1mPOST /search_goals HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:43:30] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:45:35] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 18:48:15] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'DataFrame' object is not callable
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 10:57:54] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 'DataFrame' object is not callable
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:01:53] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:13] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: local variable 'df_filtered' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:08:00] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: local variable 'df_filtered' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:08:42] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: local variable 'df_filtered' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:09:27] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: local variable 'df_filtered' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:16:00] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:17:22] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 20:59:56] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 21:03:17] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'similarities'
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 21:09:28] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 21:13:33] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 21:59:30] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 21:59:47] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\POC_mastek\\text_embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 15:32:44] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 15:34:35] "[31m[1mGET /search_goals HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 15:34:44] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_search 1.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:CSV file loaded successfully.
+INFO:root:Text normalization completed successfully.
+INFO:root:Processed data saved to goals_embedding.csv
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:root:CSV file loaded successfully.
+INFO:root:Text normalization completed successfully.
+INFO:root:Processed data saved to goals_embedding.csv
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:CSV file loaded successfully.
+INFO:root:Text normalization completed successfully.
+INFO:root:Processed data saved to goals_embedding.csv
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 15:49:39] "[33mPOST /search_goals HTTP/1.1[0m" 404 -
+INFO:root:CSV file loaded successfully.
+INFO:root:Text normalization completed successfully.
+INFO:root:Processed data saved to goals_embedding.csv
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:CSV file loaded successfully.
+INFO:root:Text normalization completed successfully.
+INFO:root:Processed data saved to goals_embedding.csv
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_search 1.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'roles_embedding'
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 16:00:09] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_base.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: 'name_embedding'
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 16:00:39] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_base.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [28/May/2024 16:01:08] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_base.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_base.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_base.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_base.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 15:00:33] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_base.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 15:12:04] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 15:12:52] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 15:13:59] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\embedding_Search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: ufunc 'multiply' did not contain a loop with signature matching types (dtype('<U34457'), dtype('<U23')) -> None
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 15:23:29] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: ufunc 'multiply' did not contain a loop with signature matching types (dtype('<U34457'), dtype('<U23')) -> None
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 15:23:44] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\embedding_Search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\embedding_Search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: ufunc 'multiply' did not contain a loop with signature matching types (dtype('<U34457'), dtype('<U23')) -> None
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 16:15:05] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_base.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+ERROR:root:An error occurred: ufunc 'multiply' did not contain a loop with signature matching types (dtype('<U34457'), dtype('<U23')) -> None
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 16:30:29] "[35m[1mPOST /search_goals HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_base.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 19:00:13] "[33mPOST /search_goals HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\embedding_Search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 19:25:23] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\embedding_Search.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\embedding.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 19:27:12] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\embedding.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_base.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\text_embedding_base.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [29/May/2024 19:43:06] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [03/Jun/2024 14:27:44] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jun/2024 14:28:01] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-709-847
+INFO:werkzeug:127.0.0.1 - - [03/Jun/2024 14:54:31] "POST /search_goals HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\embedding_search.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 873-218-998
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 10:54:58] "[31m[1mGET /generate_completion HTTP/1.1[0m" 405 -
+ERROR:root:An error occurred while generating completion: Incorrect API key provided: 0aabea4b********************9f6b. You can find your API key at https://platform.openai.com/account/api-keys.
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 10:55:08] "[35m[1mPOST /generate_completion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Pooja61598\\Downloads\\POC_mastek\\app.py', reloading
+INFO:werkzeug: * Restarting with stat

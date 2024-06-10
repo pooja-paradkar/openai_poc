@@ -1,0 +1,865 @@
+name,metric,weight,roles
+Customer Delight - Customer Satisfaction,CSAT Index,15,Group Chief Delivery Officer
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,Group Chief Delivery Officer
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),15,Group Chief Delivery Officer
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),10,Group Chief Delivery Officer
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,5,Group Chief Delivery Officer
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Group Chief Delivery Officer
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Group Chief Delivery Officer
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Group Chief Delivery Officer
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,15,Group Chief Delivery Officer
+Margins/Optimizations - Attrition,Attrition Percentage,10,Group Chief Delivery Officer
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Group Chief Delivery Officer
+Differentiated Delivery - Delivery Right First,Delivery Right First,,Group Chief Delivery Officer
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Group Chief Delivery Officer
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Group Chief Delivery Officer
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,Group Chief Delivery Officer
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Group Chief Delivery Officer
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",,Group Chief Delivery Officer
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Group Chief Delivery Officer
+Employee Experience - Employee Satisfaction,ESAT Index,5,Group Chief Delivery Officer
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",5,Group Chief Delivery Officer
+Employee Experience - Internal Fulfillment,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",5,Group Chief Delivery Officer
+Customer Delight - Customer Satisfaction,CSAT Index,15,GEO Delivery Heads
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,GEO Delivery Heads
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),15,GEO Delivery Heads
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),10,GEO Delivery Heads
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,5,GEO Delivery Heads
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,GEO Delivery Heads
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,GEO Delivery Heads
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,GEO Delivery Heads
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,15,GEO Delivery Heads
+Margins/Optimizations - Attrition,Attrition Percentage,10,GEO Delivery Heads
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,GEO Delivery Heads
+Margins/Optimizations - Delivery Right First,Delivery Right First,,GEO Delivery Heads
+Margins/Optimizations - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,GEO Delivery Heads
+Margins/Optimizations - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,GEO Delivery Heads
+Margins/Optimizations - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,GEO Delivery Heads
+Margins/Optimizations - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,5,GEO Delivery Heads
+Margins/Optimizations - Quality,"UAT defects, Period Closing, Rework, Payroll Run",,GEO Delivery Heads
+Margins/Optimizations - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,GEO Delivery Heads
+Employee Experience - Employee Satisfaction,ESAT Index,5,GEO Delivery Heads
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,GEO Delivery Heads
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,GEO Delivery Heads
+Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Director
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,Sr Director
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at <<Budgeted Revenue>>),15,Sr Director
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at <<Budgeted OB>>),10,Sr Director
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,5,Sr Director
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Sr Director
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Sr Director
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Director
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,15,Sr Director
+Margins/Optimizations - Attrition,Attrition Percentage,10,Sr Director
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Sr Director
+Differentiated Delivery - Delivery Right First,Delivery Right First,,Sr Director
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Sr Director
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Sr Director
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,Sr Director
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,5,Sr Director
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",,Sr Director
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Sr Director
+Employee Experience - Employee Satisfaction,ESAT Index,5,Sr Director
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Sr Director
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Sr Director
+Customer Delight - Customer Satisfaction,CSAT Index,15,Associate Director
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,Associate Director
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),15,Associate Director
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),10,Associate Director
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,5,Associate Director
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Associate Director
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Associate Director
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Director
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,15,Associate Director
+Margins/Optimizations - Attrition,Attrition Percentage,10,Associate Director
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Director
+Differentiated Delivery - Delivery Right First,Delivery Right First,,Associate Director
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Associate Director
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Associate Director
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,Associate Director
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,5,Associate Director
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",,Associate Director
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Associate Director
+Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Director
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Associate Director
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Associate Director
+Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Manager II
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,Sr Manager II
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),15,Sr Manager II
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),5,Sr Manager II
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Manager II
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Sr Manager II
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Sr Manager II
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Manager II
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,10,Sr Manager II
+Margins/Optimizations - Attrition,Attrition Percentage,5,Sr Manager II
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",5,Sr Manager II
+Differentiated Delivery - Delivery Right First,Delivery Right First,10,Sr Manager II
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Sr Manager II
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Sr Manager II
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,Sr Manager II
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Sr Manager II
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",5,Sr Manager II
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Sr Manager II
+Employee Experience - Employee Satisfaction,ESAT Index,10,Sr Manager II
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Sr Manager II
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Sr Manager II
+Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Architect
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Sr Architect
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Sr Architect
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),10,Sr Architect
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Architect
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Sr Architect
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Sr Architect
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Architect
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,5,Sr Architect
+Margins/Optimizations - Attrition,Attrition Percentage,5,Sr Architect
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",5,Sr Architect
+Differentiated Delivery - Delivery Right First,Delivery Right First,5,Sr Architect
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Sr Architect
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Sr Architect
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Sr Architect
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,15,Sr Architect
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",5,Sr Architect
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Sr Architect
+Employee Experience - Employee Satisfaction,ESAT Index,10,Sr Architect
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Sr Architect
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Sr Architect
+Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Manager I
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,Sr Manager I
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),15,Sr Manager I
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at -<<Budgeted OB>>),5,Sr Manager I
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Manager I
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Sr Manager I
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Sr Manager I
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Manager I
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,10,Sr Manager I
+Margins/Optimizations - Attrition,Attrition Percentage,5,Sr Manager I
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",5,Sr Manager I
+Differentiated Delivery - Delivery Right First,Delivery Right First,10,Sr Manager I
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Sr Manager I
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Sr Manager I
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,Sr Manager I
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Sr Manager I
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",5,Sr Manager I
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Sr Manager I
+Employee Experience - Employee Satisfaction,ESAT Index,10,Sr Manager I
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Sr Manager I
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Sr Manager I
+Customer Delight - Customer Satisfaction,CSAT Index,15,Architect
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Architect
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Architect
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),10,Architect
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Architect
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Architect
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Architect
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Architect
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,5,Architect
+Margins/Optimizations - Attrition,Attrition Percentage,5,Architect
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",5,Architect
+Differentiated Delivery - Delivery Right First,Delivery Right First,5,Architect
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Architect
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Architect
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Architect
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,15,Architect
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",5,Architect
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Architect
+Employee Experience - Employee Satisfaction,ESAT Index,10,Architect
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Architect
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Architect
+Customer Delight - Customer Satisfaction,CSAT Index,15,Manager II
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Manager II
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Manager II
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Manager II
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Manager II
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Manager II
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Manager II
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Manager II
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Manager II
+Margins/Optimizations - Attrition,Attrition Percentage,5,Manager II
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Manager II
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Manager II
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Manager II
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",5,Manager II
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Manager II
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,10,Manager II
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",10,Manager II
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Manager II
+Employee Experience - Employee Satisfaction,ESAT Index,5,Manager II
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Manager II
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Manager II
+Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Principal Specialist
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Sr Principal Specialist
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Sr Principal Specialist
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Sr Principal Specialist
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Principal Specialist
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Sr Principal Specialist
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Sr Principal Specialist
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Principal Specialist
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Sr Principal Specialist
+Margins/Optimizations - Attrition,Attrition Percentage,5,Sr Principal Specialist
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Sr Principal Specialist
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Sr Principal Specialist
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Sr Principal Specialist
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",5,Sr Principal Specialist
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Sr Principal Specialist
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,10,Sr Principal Specialist
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",10,Sr Principal Specialist
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Sr Principal Specialist
+Employee Experience - Employee Satisfaction,ESAT Index,5,Sr Principal Specialist
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Sr Principal Specialist
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Sr Principal Specialist
+Customer Delight - Customer Satisfaction,CSAT Index,15,Manager I
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Manager I
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Manager I
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Manager I
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Manager I
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Manager I
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Manager I
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Manager I
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Manager I
+Margins/Optimizations - Attrition,Attrition Percentage,5,Manager I
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Manager I
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Manager I
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Manager I
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",5,Manager I
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Manager I
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,10,Manager I
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",10,Manager I
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Manager I
+Employee Experience - Employee Satisfaction,ESAT Index,5,Manager I
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Manager I
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Manager I
+Customer Delight - Customer Satisfaction,CSAT Index,15,Principal Specialist
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Principal Specialist
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Principal Specialist
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Principal Specialist
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Principal Specialist
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Principal Specialist
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Principal Specialist
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Principal Specialist
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Principal Specialist
+Margins/Optimizations - Attrition,Attrition Percentage,5,Principal Specialist
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Principal Specialist
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Principal Specialist
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Principal Specialist
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",5,Principal Specialist
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Principal Specialist
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,10,Principal Specialist
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",10,Principal Specialist
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Principal Specialist
+Employee Experience - Employee Satisfaction,ESAT Index,5,Principal Specialist
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Principal Specialist
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Principal Specialist
+Customer Delight - Customer Satisfaction,CSAT Index,15,Associate Manager II
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Manager II
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Manager II
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Manager II
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Manager II
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Manager II
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Manager II
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Manager II
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Manager II
+Margins/Optimizations - Attrition,Attrition Percentage,,Associate Manager II
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Manager II
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Manager II
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Manager II
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Manager II
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Manager II
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Manager II
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Associate Manager II
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Associate Manager II
+Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Manager II
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Associate Manager II
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Manager II
+Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Consultant II
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Sr Consultant II
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Sr Consultant II
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Sr Consultant II
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Consultant II
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Sr Consultant II
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Sr Consultant II
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Consultant II
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Sr Consultant II
+Margins/Optimizations - Attrition,Attrition Percentage,,Sr Consultant II
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Sr Consultant II
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Sr Consultant II
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Sr Consultant II
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Sr Consultant II
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Sr Consultant II
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Sr Consultant II
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Sr Consultant II
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Sr Consultant II
+Employee Experience - Employee Satisfaction,ESAT Index,5,Sr Consultant II
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Sr Consultant II
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Sr Consultant II
+Customer Delight - Customer Satisfaction,CSAT Index,15,Associate Manager I
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Manager I
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Manager I
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Manager I
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Manager I
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Manager I
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Manager I
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Manager I
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Manager I
+Margins/Optimizations - Attrition,Attrition Percentage,,Associate Manager I
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Manager I
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Manager I
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Manager I
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Manager I
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Manager I
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Manager I
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Associate Manager I
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Associate Manager I
+Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Manager I
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Associate Manager I
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Manager I
+Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Consultant I
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Sr Consultant I
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Sr Consultant I
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Sr Consultant I
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Consultant I
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Sr Consultant I
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Sr Consultant I
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Consultant I
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Sr Consultant I
+Margins/Optimizations - Attrition,Attrition Percentage,,Sr Consultant I
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Sr Consultant I
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Sr Consultant I
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Sr Consultant I
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Sr Consultant I
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Sr Consultant I
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Sr Consultant I
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Sr Consultant I
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Sr Consultant I
+Employee Experience - Employee Satisfaction,ESAT Index,5,Sr Consultant I
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Sr Consultant I
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Sr Consultant I
+Customer Delight - Customer Satisfaction,CSAT Index,15,Associate Specialist II
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Specialist II
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Specialist II
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Specialist II
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Specialist II
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Specialist II
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Specialist II
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Specialist II
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Specialist II
+Margins/Optimizations - Attrition,Attrition Percentage,,Associate Specialist II
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Specialist II
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Specialist II
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Specialist II
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Specialist II
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Specialist II
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Specialist II
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Associate Specialist II
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Associate Specialist II
+Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Specialist II
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Associate Specialist II
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Specialist II
+Customer Delight - Customer Satisfaction,CSAT Index,10,Consultant II
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Consultant II
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Consultant II
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Consultant II
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Consultant II
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Consultant II
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Consultant II
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Consultant II
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Consultant II
+Margins/Optimizations - Attrition,Attrition Percentage,,Consultant II
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Consultant II
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Consultant II
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Consultant II
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Consultant II
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Consultant II
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Consultant II
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",20,Consultant II
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Consultant II
+Employee Experience - Employee Satisfaction,ESAT Index,5,Consultant II
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Consultant II
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Consultant II
+Customer Delight - Customer Satisfaction,CSAT Index,10,Associate Specialist I
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Specialist I
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Specialist I
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Specialist I
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Specialist I
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Specialist I
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Specialist I
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Specialist I
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Specialist I
+Margins/Optimizations - Attrition,Attrition Percentage,,Associate Specialist I
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Specialist I
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Specialist I
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Specialist I
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Specialist I
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Specialist I
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Specialist I
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",20,Associate Specialist I
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Associate Specialist I
+Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Specialist I
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Associate Specialist I
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Specialist I
+Customer Delight - Customer Satisfaction,CSAT Index,10,Consultant I
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Consultant I
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Consultant I
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Consultant I
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Consultant I
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Consultant I
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Consultant I
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Consultant I
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Consultant I
+Margins/Optimizations - Attrition,Attrition Percentage,,Consultant I
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Consultant I
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Consultant I
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Consultant I
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Consultant I
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Consultant I
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Consultant I
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",20,Consultant I
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Consultant I
+Employee Experience - Employee Satisfaction,ESAT Index,5,Consultant I
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Consultant I
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Consultant I
+Customer Delight - Customer Satisfaction,CSAT Index,5,Associate Consultant
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Consultant
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Consultant
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Consultant
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Consultant
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Consultant
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Consultant
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Consultant
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Consultant
+Margins/Optimizations - Attrition,Attrition Percentage,,Associate Consultant
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Consultant
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Consultant
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Consultant
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Consultant
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Consultant
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Consultant
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Associate Consultant
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",10,Associate Consultant
+Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Consultant
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",15,Associate Consultant
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Consultant
+Customer Delight - Customer Satisfaction,CSAT Index,5,Trainee
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Trainee
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Trainee
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Trainee
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Trainee
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Trainee
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Trainee
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Trainee
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Trainee
+Margins/Optimizations - Attrition,Attrition Percentage,,Trainee
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Trainee
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Trainee
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Trainee
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Trainee
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Trainee
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Trainee
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Trainee
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",10,Trainee
+Employee Experience - Employee Satisfaction,ESAT Index,5,Trainee
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",15,Trainee
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Trainee
+Customer Delight - Customer Satisfaction,CSAT Index,5,Associate Trainee
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Trainee
+Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Trainee
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Trainee
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Trainee
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Trainee
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Trainee
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Trainee
+Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Trainee
+Margins/Optimizations - Attrition,Attrition Percentage,,Associate Trainee
+Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Trainee
+Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Trainee
+Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Trainee
+Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Trainee
+Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Trainee
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Trainee
+Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Associate Trainee
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",10,Associate Trainee
+Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Trainee
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",15,Associate Trainee
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Trainee
+Customer Delight - Customer Satisfaction,CSAT Index,15%,Practice Manager
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Practice Manager
+Growth/Scale - Revenue,Net new business from existing accounts,10%,Practice Manager
+Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - $280m),,Practice Manager
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Practice Manager
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Practice Manager
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Practice Manager
+Margins/Optimizations - GM Target,Budgeted GM at x% (Percentage to be shared by manager),10%,Practice Manager
+Margins/Optimizations - Attrition,Attrition Percentage,,Practice Manager
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Practice Manager
+Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",10%,Practice Manager
+Differentiated Delivery - Productivity,Sum of % Billable and Internal Non billable Approved Utilization annually.Measured based on timesheet data.,10%,Practice Manager
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Practice Manager
+Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",5%,Practice Manager
+Employee Experience - Employee Satisfaction,ESAT Index,15%,Practice Manager
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Practice Manager
+Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",25%,Practice Manager
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Practice Manager
+Customer Delight - Customer Satisfaction,CSAT Index,10%,Project Manager (all regions except ME)
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Project Manager (all regions except ME)
+Growth/Scale - Revenue,Achievement of revenue target,20%,Project Manager (all regions except ME)
+Growth/Scale - Order Book,Achievement of upsell target,20%,Project Manager (all regions except ME)
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Project Manager (all regions except ME)
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Project Manager (all regions except ME)
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Project Manager (all regions except ME)
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Project Manager (all regions except ME)
+Margins/Optimizations - GM Target,Achevement of GM targets,25%,Project Manager (all regions except ME)
+Margins/Optimizations - Attrition,Attrition Percentage,,Project Manager (all regions except ME)
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Project Manager (all regions except ME)
+Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Project Manager (all regions except ME)
+Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Project Manager (all regions except ME)
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Project Manager (all regions except ME)
+Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",15%,Project Manager (all regions except ME)
+Employee Experience - Employee Satisfaction,ESAT Index,10%,Project Manager (all regions except ME)
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Project Manager (all regions except ME)
+Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,Project Manager (all regions except ME)
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Project Manager (all regions except ME)
+Customer Delight - Customer Satisfaction,CSAT Index,10%,Project Manager (ME)
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Project Manager (ME)
+Growth/Scale - Revenue,Achievement of revenue target,25%,Project Manager (ME)
+Growth/Scale - Order Book,Achievement of upsell target,,Project Manager (ME)
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Project Manager (ME)
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Project Manager (ME)
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Project Manager (ME)
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,20%,Project Manager (ME)
+Margins/Optimizations - GM Target,Achevement of GM targets,30%,Project Manager (ME)
+Margins/Optimizations - Attrition,Attrition Percentage,,Project Manager (ME)
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Project Manager (ME)
+Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Project Manager (ME)
+Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Project Manager (ME)
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Project Manager (ME)
+Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",15%,Project Manager (ME)
+Employee Experience - Employee Satisfaction,ESAT Index,,Project Manager (ME)
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Project Manager (ME)
+Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,Project Manager (ME)
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Project Manager (ME)
+Customer Delight - Customer Satisfaction,CSAT Index,20%,Program Manager (all regions except ME)
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Program Manager (all regions except ME)
+Growth/Scale - Revenue,Achievement of revenue target,20%,Program Manager (all regions except ME)
+Growth/Scale - Order Book,Achievement of upsell target,,Program Manager (all regions except ME)
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Program Manager (all regions except ME)
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Program Manager (all regions except ME)
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Program Manager (all regions except ME)
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Program Manager (all regions except ME)
+Margins/Optimizations - GM Target,Achevement of GM targets,30%,Program Manager (all regions except ME)
+Margins/Optimizations - Attrition,Attrition Percentage,,Program Manager (all regions except ME)
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Program Manager (all regions except ME)
+Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Program Manager (all regions except ME)
+Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Program Manager (all regions except ME)
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Program Manager (all regions except ME)
+Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",10%,Program Manager (all regions except ME)
+Employee Experience - Employee Satisfaction,ESAT Index,5%,Program Manager (all regions except ME)
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Program Manager (all regions except ME)
+Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",10%,Program Manager (all regions except ME)
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",5%,Program Manager (all regions except ME)
+Customer Delight - Customer Satisfaction,CSAT Index,15%,Program Manager (ME)
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Program Manager (ME)
+Growth/Scale - Revenue,Achievement of revenue target,20%,Program Manager (ME)
+Growth/Scale - Order Book,Achievement of upsell target,,Program Manager (ME)
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Program Manager (ME)
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Program Manager (ME)
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Program Manager (ME)
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,10%,Program Manager (ME)
+Margins/Optimizations - GM Target,Achevement of GM targets,35%,Program Manager (ME)
+Margins/Optimizations - Attrition,Attrition Percentage,,Program Manager (ME)
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Program Manager (ME)
+Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Program Manager (ME)
+Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Program Manager (ME)
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Program Manager (ME)
+Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",10%,Program Manager (ME)
+Employee Experience - Employee Satisfaction,ESAT Index,10%,Program Manager (ME)
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Program Manager (ME)
+Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,Program Manager (ME)
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Program Manager (ME)
+Customer Delight - Customer Satisfaction,CSAT Index,25%,SDM (all regions except ME)
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,SDM (all regions except ME)
+Growth/Scale - Revenue,Achievement of revenue target,20%,SDM (all regions except ME)
+Growth/Scale - Order Book,Achievement of upsell target,10%,SDM (all regions except ME)
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,SDM (all regions except ME)
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,SDM (all regions except ME)
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,SDM (all regions except ME)
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,SDM (all regions except ME)
+Margins/Optimizations - GM Target,Achevement of GM targets,20%,SDM (all regions except ME)
+Margins/Optimizations - Attrition,Attrition Percentage,,SDM (all regions except ME)
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,SDM (all regions except ME)
+Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,SDM (all regions except ME)
+Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,SDM (all regions except ME)
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,SDM (all regions except ME)
+Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",10%,SDM (all regions except ME)
+Employee Experience - Employee Satisfaction,ESAT Index,15%,SDM (all regions except ME)
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,SDM (all regions except ME)
+Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,SDM (all regions except ME)
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,SDM (all regions except ME)
+Customer Delight - Customer Satisfaction,CSAT Index,15%,SDM (ME)
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,SDM (ME)
+Growth/Scale - Revenue,Achievement of revenue target,20%,SDM (ME)
+Growth/Scale - Order Book,Achievement of upsell target,,SDM (ME)
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,SDM (ME)
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,SDM (ME)
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,SDM (ME)
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,15%,SDM (ME)
+Margins/Optimizations - GM Target,Achevement of GM targets,30%,SDM (ME)
+Margins/Optimizations - Attrition,Attrition Percentage,,SDM (ME)
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,SDM (ME)
+Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,SDM (ME)
+Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,SDM (ME)
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,SDM (ME)
+Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",10%,SDM (ME)
+Employee Experience - Employee Satisfaction,ESAT Index,10%,SDM (ME)
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,SDM (ME)
+Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,SDM (ME)
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,SDM (ME)
+Customer Delight - Customer Satisfaction,CSAT Index,20%,Onsite Regional Leader (all regions except ME)
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Onsite Regional Leader (all regions except ME)
+Growth/Scale - Revenue,Achievement of revenue target,30%,Onsite Regional Leader (all regions except ME)
+Growth/Scale - Order Book,Achievement of upsell target,,Onsite Regional Leader (all regions except ME)
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Onsite Regional Leader (all regions except ME)
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Onsite Regional Leader (all regions except ME)
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Onsite Regional Leader (all regions except ME)
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Onsite Regional Leader (all regions except ME)
+Margins/Optimizations - GM Target,Achevement of GM targets,30%,Onsite Regional Leader (all regions except ME)
+Margins/Optimizations - Attrition,Attrition Percentage,,Onsite Regional Leader (all regions except ME)
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Onsite Regional Leader (all regions except ME)
+Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Onsite Regional Leader (all regions except ME)
+Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Onsite Regional Leader (all regions except ME)
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Onsite Regional Leader (all regions except ME)
+Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",5%,Onsite Regional Leader (all regions except ME)
+Employee Experience - Employee Satisfaction,ESAT Index,10%,Onsite Regional Leader (all regions except ME)
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Onsite Regional Leader (all regions except ME)
+Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",5%,Onsite Regional Leader (all regions except ME)
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Onsite Regional Leader (all regions except ME)
+Customer Delight - Customer Satisfaction,CSAT Index,15%,Onsite Regional Leader (ME)
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Onsite Regional Leader (ME)
+Growth/Scale - Revenue,Achievement of revenue target,30%,Onsite Regional Leader (ME)
+Growth/Scale - Order Book,Achievement of upsell target,,Onsite Regional Leader (ME)
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Onsite Regional Leader (ME)
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Onsite Regional Leader (ME)
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Onsite Regional Leader (ME)
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,5%,Onsite Regional Leader (ME)
+Margins/Optimizations - GM Target,Achevement of GM targets,35%,Onsite Regional Leader (ME)
+Margins/Optimizations - Attrition,Attrition Percentage,,Onsite Regional Leader (ME)
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Onsite Regional Leader (ME)
+Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Onsite Regional Leader (ME)
+Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Onsite Regional Leader (ME)
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Onsite Regional Leader (ME)
+Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",5%,Onsite Regional Leader (ME)
+Employee Experience - Employee Satisfaction,ESAT Index,10%,Onsite Regional Leader (ME)
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Onsite Regional Leader (ME)
+Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,Onsite Regional Leader (ME)
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Onsite Regional Leader (ME)
+Customer Delight - Customer Satisfaction,CSAT Index,10%,Offshore Regional Leader (all regions except ME)
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Offshore Regional Leader (all regions except ME)
+Growth/Scale - Revenue,Achievement of revenue target,20%,Offshore Regional Leader (all regions except ME)
+Growth/Scale - Order Book,Achievement of upsell target,,Offshore Regional Leader (all regions except ME)
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Offshore Regional Leader (all regions except ME)
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Offshore Regional Leader (all regions except ME)
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Offshore Regional Leader (all regions except ME)
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Offshore Regional Leader (all regions except ME)
+Margins/Optimizations - GM Target,Achevement of GM targets,30%,Offshore Regional Leader (all regions except ME)
+Margins/Optimizations - Attrition,Attrition Percentage,,Offshore Regional Leader (all regions except ME)
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Offshore Regional Leader (all regions except ME)
+Differentiated Delivery - Quality,Refer Qaulity Defination,15%,Offshore Regional Leader (all regions except ME)
+Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Offshore Regional Leader (all regions except ME)
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Offshore Regional Leader (all regions except ME)
+Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",5%,Offshore Regional Leader (all regions except ME)
+Employee Experience - Employee Satisfaction,ESAT Index,10%,Offshore Regional Leader (all regions except ME)
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Offshore Regional Leader (all regions except ME)
+Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",10%,Offshore Regional Leader (all regions except ME)
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Offshore Regional Leader (all regions except ME)
+Customer Delight - Customer Satisfaction,CSAT Index,10%,Offshore Regional Leader (ME)
+Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Offshore Regional Leader (ME)
+Growth/Scale - Revenue,Achievement of revenue target,20%,Offshore Regional Leader (ME)
+Growth/Scale - Order Book,Achievement of upsell target,,Offshore Regional Leader (ME)
+Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Offshore Regional Leader (ME)
+Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Offshore Regional Leader (ME)
+Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Offshore Regional Leader (ME)
+Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Offshore Regional Leader (ME)
+Margins/Optimizations - GM Target,Achevement of GM targets,35%,Offshore Regional Leader (ME)
+Margins/Optimizations - Attrition,Attrition Percentage,,Offshore Regional Leader (ME)
+Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Offshore Regional Leader (ME)
+Differentiated Delivery - Quality,Refer Qaulity Defination,10%,Offshore Regional Leader (ME)
+Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Offshore Regional Leader (ME)
+Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Offshore Regional Leader (ME)
+Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",5%,Offshore Regional Leader (ME)
+Employee Experience - Employee Satisfaction,ESAT Index,10%,Offshore Regional Leader (ME)
+Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Offshore Regional Leader (ME)
+Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",10%,Offshore Regional Leader (ME)
+Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Offshore Regional Leader (ME)
+Order Book - Contract Order Book for Implementations and Annual contract value (ACV) for Support. For Third Party Licenses or Services 2x of Gross Margin,,80%,Sales Team
+Order Booking/ Revenue Booking against the target,,20%,Sales Team
+Order Book - Contract Order Book for Implementations and Annual contract value (ACV) for Support. For Third Party Licenses or Services 2x of Gross Margin,,70%,PreSales Team
+Win Ratio - Won Proposals / Total Proposals,,20%,PreSales Team
+Estimated Gross Margin to Actual Gross Margin - Accuracy of Estimated Gross Margin to Actual Gross Margin,,10%,PreSales Team
+Order Book - Contract New Order Book for Implementations and Annual contract value (ACV) for Support. For Third Party Licenses or Services 2x of Gross Margin,,,Account Manager/ Client Partner
+Order Booking/ Revenue Booking against the target,,,Account Manager/ Client Partner
+Gross Margin - GM 1,,,Account Manager/ Client Partner
+Customer Delight - Customer Satisfaction,CSAT Index,15%,Account Manager/ Client Partner
+Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Account Manager/ Client Partner
+Growth/Scale - Revenue,Net new business from existing accounts,,Account Manager/ Client Partner
+Growth/Scale - Order Book,Achievement of upsell target,,Account Manager/ Client Partner

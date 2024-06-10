@@ -1,0 +1,865 @@
+guid,parent_guid,name,metric,weight,roles
+8211001,8211000,Customer Delight - Customer Satisfaction,CSAT Index,15,Group Chief Delivery Officer
+8211002,8211000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,Group Chief Delivery Officer
+8211003,8211000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),15,Group Chief Delivery Officer
+8211004,8211000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),10,Group Chief Delivery Officer
+8211005,8211000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,5,Group Chief Delivery Officer
+8211006,8211000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Group Chief Delivery Officer
+8211007,8211000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Group Chief Delivery Officer
+8211008,8211000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Group Chief Delivery Officer
+8211009,8211000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,15,Group Chief Delivery Officer
+8211010,8211000,Margins/Optimizations - Attrition,Attrition Percentage,10,Group Chief Delivery Officer
+8211011,8211000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Group Chief Delivery Officer
+8211012,8211000,Differentiated Delivery - Delivery Right First,Delivery Right First,,Group Chief Delivery Officer
+8211013,8211000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Group Chief Delivery Officer
+8211014,8211000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Group Chief Delivery Officer
+8211015,8211000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,Group Chief Delivery Officer
+8211016,8211000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Group Chief Delivery Officer
+8211017,8211000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",,Group Chief Delivery Officer
+8211018,8211000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Group Chief Delivery Officer
+8211019,8211000,Employee Experience - Employee Satisfaction,ESAT Index,5,Group Chief Delivery Officer
+8211020,8211000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",5,Group Chief Delivery Officer
+8211021,8211000,Employee Experience - Internal Fulfillment,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",5,Group Chief Delivery Officer
+8212001,8212000,Customer Delight - Customer Satisfaction,CSAT Index,15,GEO Delivery Heads
+8212002,8212000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,GEO Delivery Heads
+8212003,8212000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),15,GEO Delivery Heads
+8212004,8212000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),10,GEO Delivery Heads
+8212005,8212000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,5,GEO Delivery Heads
+8212006,8212000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,GEO Delivery Heads
+8212007,8212000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,GEO Delivery Heads
+8212008,8212000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,GEO Delivery Heads
+8212009,8212000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,15,GEO Delivery Heads
+8212010,8212000,Margins/Optimizations - Attrition,Attrition Percentage,10,GEO Delivery Heads
+8212011,8212000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,GEO Delivery Heads
+8212012,8212000,Margins/Optimizations - Delivery Right First,Delivery Right First,,GEO Delivery Heads
+8212013,8212000,Margins/Optimizations - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,GEO Delivery Heads
+8212014,8212000,Margins/Optimizations - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,GEO Delivery Heads
+8212015,8212000,Margins/Optimizations - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,GEO Delivery Heads
+8212016,8212000,Margins/Optimizations - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,5,GEO Delivery Heads
+8212017,8212000,Margins/Optimizations - Quality,"UAT defects, Period Closing, Rework, Payroll Run",,GEO Delivery Heads
+8212018,8212000,Margins/Optimizations - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,GEO Delivery Heads
+8212019,8212000,Employee Experience - Employee Satisfaction,ESAT Index,5,GEO Delivery Heads
+8212020,8212000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,GEO Delivery Heads
+8212021,8212000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,GEO Delivery Heads
+8213001,8213000,Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Director
+8213002,8213000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,Sr Director
+8213003,8213000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at <<Budgeted Revenue>>),15,Sr Director
+8213004,8213000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at <<Budgeted OB>>),10,Sr Director
+8213005,8213000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,5,Sr Director
+8213006,8213000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Sr Director
+8213007,8213000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Sr Director
+8213008,8213000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Director
+8213009,8213000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,15,Sr Director
+8213010,8213000,Margins/Optimizations - Attrition,Attrition Percentage,10,Sr Director
+8213011,8213000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Sr Director
+8213012,8213000,Differentiated Delivery - Delivery Right First,Delivery Right First,,Sr Director
+8213013,8213000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Sr Director
+8213014,8213000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Sr Director
+8213015,8213000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,Sr Director
+8213016,8213000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,5,Sr Director
+8213017,8213000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",,Sr Director
+8213018,8213000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Sr Director
+8213019,8213000,Employee Experience - Employee Satisfaction,ESAT Index,5,Sr Director
+8213020,8213000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Sr Director
+8213021,8213000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Sr Director
+8214001,8214000,Customer Delight - Customer Satisfaction,CSAT Index,15,Associate Director
+8214002,8214000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,Associate Director
+8214003,8214000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),15,Associate Director
+8214004,8214000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),10,Associate Director
+8214005,8214000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,5,Associate Director
+8214006,8214000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Associate Director
+8214007,8214000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Associate Director
+8214008,8214000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Director
+8214009,8214000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,15,Associate Director
+8214010,8214000,Margins/Optimizations - Attrition,Attrition Percentage,10,Associate Director
+8214011,8214000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Director
+8214012,8214000,Differentiated Delivery - Delivery Right First,Delivery Right First,,Associate Director
+8214013,8214000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Associate Director
+8214014,8214000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Associate Director
+8214015,8214000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,Associate Director
+8214016,8214000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,5,Associate Director
+8214017,8214000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",,Associate Director
+8214018,8214000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Associate Director
+8214019,8214000,Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Director
+8214020,8214000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Associate Director
+8214021,8214000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Associate Director
+8215001,8215000,Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Manager II
+8215002,8215000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,Sr Manager II
+8215003,8215000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),15,Sr Manager II
+8215004,8215000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),5,Sr Manager II
+8215005,8215000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Manager II
+8215006,8215000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Sr Manager II
+8215007,8215000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Sr Manager II
+8215008,8215000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Manager II
+8215009,8215000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,10,Sr Manager II
+8215010,8215000,Margins/Optimizations - Attrition,Attrition Percentage,5,Sr Manager II
+8215011,8215000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",5,Sr Manager II
+8215012,8215000,Differentiated Delivery - Delivery Right First,Delivery Right First,10,Sr Manager II
+8215013,8215000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Sr Manager II
+8215014,8215000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Sr Manager II
+8215015,8215000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,Sr Manager II
+8215016,8215000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Sr Manager II
+8215017,8215000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",5,Sr Manager II
+8215018,8215000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Sr Manager II
+8215019,8215000,Employee Experience - Employee Satisfaction,ESAT Index,10,Sr Manager II
+8215020,8215000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Sr Manager II
+8215021,8215000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Sr Manager II
+8216001,8216000,Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Architect
+8216002,8216000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Sr Architect
+8216003,8216000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Sr Architect
+8216004,8216000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),10,Sr Architect
+8216005,8216000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Architect
+8216006,8216000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Sr Architect
+8216007,8216000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Sr Architect
+8216008,8216000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Architect
+8216009,8216000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,5,Sr Architect
+8216010,8216000,Margins/Optimizations - Attrition,Attrition Percentage,5,Sr Architect
+8216011,8216000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",5,Sr Architect
+8216012,8216000,Differentiated Delivery - Delivery Right First,Delivery Right First,5,Sr Architect
+8216013,8216000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Sr Architect
+8216014,8216000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Sr Architect
+8216015,8216000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Sr Architect
+8216016,8216000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,15,Sr Architect
+8216017,8216000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",5,Sr Architect
+8216018,8216000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Sr Architect
+8216019,8216000,Employee Experience - Employee Satisfaction,ESAT Index,10,Sr Architect
+8216020,8216000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Sr Architect
+8216021,8216000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Sr Architect
+8217001,8217000,Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Manager I
+8217002,8217000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,5,Sr Manager I
+8217003,8217000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),15,Sr Manager I
+8217004,8217000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at -<<Budgeted OB>>),5,Sr Manager I
+8217005,8217000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Manager I
+8217006,8217000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Sr Manager I
+8217007,8217000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Sr Manager I
+8217008,8217000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Manager I
+8217009,8217000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,10,Sr Manager I
+8217010,8217000,Margins/Optimizations - Attrition,Attrition Percentage,5,Sr Manager I
+8217011,8217000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",5,Sr Manager I
+8217012,8217000,Differentiated Delivery - Delivery Right First,Delivery Right First,10,Sr Manager I
+8217013,8217000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Sr Manager I
+8217014,8217000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Sr Manager I
+8217015,8217000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",,Sr Manager I
+8217016,8217000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Sr Manager I
+8217017,8217000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",5,Sr Manager I
+8217018,8217000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Sr Manager I
+8217019,8217000,Employee Experience - Employee Satisfaction,ESAT Index,10,Sr Manager I
+8217020,8217000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Sr Manager I
+8217021,8217000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Sr Manager I
+8218001,8218000,Customer Delight - Customer Satisfaction,CSAT Index,15,Architect
+8218002,8218000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Architect
+8218003,8218000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Architect
+8218004,8218000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),10,Architect
+8218005,8218000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Architect
+8218006,8218000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Architect
+8218007,8218000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,5,Architect
+8218008,8218000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Architect
+8218009,8218000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,5,Architect
+8218010,8218000,Margins/Optimizations - Attrition,Attrition Percentage,5,Architect
+8218011,8218000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",5,Architect
+8218012,8218000,Differentiated Delivery - Delivery Right First,Delivery Right First,5,Architect
+8218013,8218000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Architect
+8218014,8218000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",,Architect
+8218015,8218000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Architect
+8218016,8218000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,15,Architect
+8218017,8218000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",5,Architect
+8218018,8218000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Architect
+8218019,8218000,Employee Experience - Employee Satisfaction,ESAT Index,10,Architect
+8218020,8218000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Architect
+8218021,8218000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Architect
+8219001,8219000,Customer Delight - Customer Satisfaction,CSAT Index,15,Manager II
+8219002,8219000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Manager II
+8219003,8219000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Manager II
+8219004,8219000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Manager II
+8219005,8219000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Manager II
+8219006,8219000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Manager II
+8219007,8219000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Manager II
+8219008,8219000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Manager II
+8219009,8219000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Manager II
+8219010,8219000,Margins/Optimizations - Attrition,Attrition Percentage,5,Manager II
+8219011,8219000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Manager II
+8219012,8219000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Manager II
+8219013,8219000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Manager II
+8219014,8219000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",5,Manager II
+8219015,8219000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Manager II
+8219016,8219000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,10,Manager II
+8219017,8219000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",10,Manager II
+8219018,8219000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Manager II
+8219019,8219000,Employee Experience - Employee Satisfaction,ESAT Index,5,Manager II
+8219020,8219000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Manager II
+8219021,8219000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Manager II
+8220001,8220000,Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Principal Specialist
+8220002,8220000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Sr Principal Specialist
+8220003,8220000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Sr Principal Specialist
+8220004,8220000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Sr Principal Specialist
+8220005,8220000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Principal Specialist
+8220006,8220000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Sr Principal Specialist
+8220007,8220000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Sr Principal Specialist
+8220008,8220000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Principal Specialist
+8220009,8220000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Sr Principal Specialist
+8220010,8220000,Margins/Optimizations - Attrition,Attrition Percentage,5,Sr Principal Specialist
+8220011,8220000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Sr Principal Specialist
+8220012,8220000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Sr Principal Specialist
+8220013,8220000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Sr Principal Specialist
+8220014,8220000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",5,Sr Principal Specialist
+8220015,8220000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Sr Principal Specialist
+8220016,8220000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,10,Sr Principal Specialist
+8220017,8220000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",10,Sr Principal Specialist
+8220018,8220000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Sr Principal Specialist
+8220019,8220000,Employee Experience - Employee Satisfaction,ESAT Index,5,Sr Principal Specialist
+8220020,8220000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Sr Principal Specialist
+8220021,8220000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Sr Principal Specialist
+8221001,8221000,Customer Delight - Customer Satisfaction,CSAT Index,15,Manager I
+8221002,8221000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Manager I
+8221003,8221000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Manager I
+8221004,8221000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Manager I
+8221005,8221000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Manager I
+8221006,8221000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Manager I
+8221007,8221000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Manager I
+8221008,8221000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Manager I
+8221009,8221000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Manager I
+8221010,8221000,Margins/Optimizations - Attrition,Attrition Percentage,5,Manager I
+8221011,8221000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Manager I
+8221012,8221000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Manager I
+8221013,8221000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Manager I
+8221014,8221000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",5,Manager I
+8221015,8221000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Manager I
+8221016,8221000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,10,Manager I
+8221017,8221000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",10,Manager I
+8221018,8221000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Manager I
+8221019,8221000,Employee Experience - Employee Satisfaction,ESAT Index,5,Manager I
+8221020,8221000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Manager I
+8221021,8221000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Manager I
+8223001,8223000,Customer Delight - Customer Satisfaction,CSAT Index,15,Principal Specialist
+8223002,8223000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Principal Specialist
+8223003,8223000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),5,Principal Specialist
+8223004,8223000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Principal Specialist
+8223005,8223000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Principal Specialist
+8223006,8223000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),5,Principal Specialist
+8223007,8223000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Principal Specialist
+8223008,8223000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Principal Specialist
+8223009,8223000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Principal Specialist
+8223010,8223000,Margins/Optimizations - Attrition,Attrition Percentage,5,Principal Specialist
+8223011,8223000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Principal Specialist
+8223012,8223000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Principal Specialist
+8223013,8223000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Principal Specialist
+8223014,8223000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",5,Principal Specialist
+8223015,8223000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",10,Principal Specialist
+8223016,8223000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,10,Principal Specialist
+8223017,8223000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",10,Principal Specialist
+8223018,8223000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Principal Specialist
+8223019,8223000,Employee Experience - Employee Satisfaction,ESAT Index,5,Principal Specialist
+8223020,8223000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Principal Specialist
+8223021,8223000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,5,Principal Specialist
+8224001,8224000,Customer Delight - Customer Satisfaction,CSAT Index,15,Associate Manager II
+8224002,8224000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Manager II
+8224003,8224000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Manager II
+8224004,8224000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Manager II
+8224005,8224000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Manager II
+8224006,8224000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Manager II
+8224007,8224000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Manager II
+8224008,8224000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Manager II
+8224009,8224000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Manager II
+8224010,8224000,Margins/Optimizations - Attrition,Attrition Percentage,,Associate Manager II
+8224011,8224000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Manager II
+8224012,8224000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Manager II
+8224013,8224000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Manager II
+8224014,8224000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Manager II
+8224015,8224000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Manager II
+8224016,8224000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Manager II
+8224017,8224000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Associate Manager II
+8224018,8224000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Associate Manager II
+8224019,8224000,Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Manager II
+8224020,8224000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Associate Manager II
+8224021,8224000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Manager II
+8225001,8225000,Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Consultant II
+8225002,8225000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Sr Consultant II
+8225003,8225000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Sr Consultant II
+8225004,8225000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Sr Consultant II
+8225005,8225000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Consultant II
+8225006,8225000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Sr Consultant II
+8225007,8225000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Sr Consultant II
+8225008,8225000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Consultant II
+8225009,8225000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Sr Consultant II
+8225010,8225000,Margins/Optimizations - Attrition,Attrition Percentage,,Sr Consultant II
+8225011,8225000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Sr Consultant II
+8225012,8225000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Sr Consultant II
+8225013,8225000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Sr Consultant II
+8225014,8225000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Sr Consultant II
+8225015,8225000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Sr Consultant II
+8225016,8225000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Sr Consultant II
+8225017,8225000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Sr Consultant II
+8225018,8225000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Sr Consultant II
+8225019,8225000,Employee Experience - Employee Satisfaction,ESAT Index,5,Sr Consultant II
+8225020,8225000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Sr Consultant II
+8225021,8225000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Sr Consultant II
+8226001,8226000,Customer Delight - Customer Satisfaction,CSAT Index,15,Associate Manager I
+8226002,8226000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Manager I
+8226003,8226000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Manager I
+8226004,8226000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Manager I
+8226005,8226000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Manager I
+8226006,8226000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Manager I
+8226007,8226000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Manager I
+8226008,8226000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Manager I
+8226009,8226000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Manager I
+8226010,8226000,Margins/Optimizations - Attrition,Attrition Percentage,,Associate Manager I
+8226011,8226000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Manager I
+8226012,8226000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Manager I
+8226013,8226000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Manager I
+8226014,8226000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Manager I
+8226015,8226000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Manager I
+8226016,8226000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Manager I
+8226017,8226000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Associate Manager I
+8226018,8226000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Associate Manager I
+8226019,8226000,Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Manager I
+8226020,8226000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Associate Manager I
+8226021,8226000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Manager I
+8227001,8227000,Customer Delight - Customer Satisfaction,CSAT Index,15,Sr Consultant I
+8227002,8227000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Sr Consultant I
+8227003,8227000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Sr Consultant I
+8227004,8227000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Sr Consultant I
+8227005,8227000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Sr Consultant I
+8227006,8227000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Sr Consultant I
+8227007,8227000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Sr Consultant I
+8227008,8227000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Sr Consultant I
+8227009,8227000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Sr Consultant I
+8227010,8227000,Margins/Optimizations - Attrition,Attrition Percentage,,Sr Consultant I
+8227011,8227000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Sr Consultant I
+8227012,8227000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Sr Consultant I
+8227013,8227000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Sr Consultant I
+8227014,8227000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Sr Consultant I
+8227015,8227000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Sr Consultant I
+8227016,8227000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Sr Consultant I
+8227017,8227000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Sr Consultant I
+8227018,8227000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Sr Consultant I
+8227019,8227000,Employee Experience - Employee Satisfaction,ESAT Index,5,Sr Consultant I
+8227020,8227000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Sr Consultant I
+8227021,8227000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Sr Consultant I
+8228001,8228000,Customer Delight - Customer Satisfaction,CSAT Index,15,Associate Specialist II
+8228002,8228000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Specialist II
+8228003,8228000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Specialist II
+8228004,8228000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Specialist II
+8228005,8228000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Specialist II
+8228006,8228000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Specialist II
+8228007,8228000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Specialist II
+8228008,8228000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Specialist II
+8228009,8228000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Specialist II
+8228010,8228000,Margins/Optimizations - Attrition,Attrition Percentage,,Associate Specialist II
+8228011,8228000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Specialist II
+8228012,8228000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Specialist II
+8228013,8228000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Specialist II
+8228014,8228000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Specialist II
+8228015,8228000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Specialist II
+8228016,8228000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Specialist II
+8228017,8228000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Associate Specialist II
+8228018,8228000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Associate Specialist II
+8228019,8228000,Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Specialist II
+8228020,8228000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Associate Specialist II
+8228021,8228000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Specialist II
+8229001,8229000,Customer Delight - Customer Satisfaction,CSAT Index,10,Consultant II
+8229002,8229000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Consultant II
+8229003,8229000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Consultant II
+8229004,8229000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Consultant II
+8229005,8229000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Consultant II
+8229006,8229000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Consultant II
+8229007,8229000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Consultant II
+8229008,8229000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Consultant II
+8229009,8229000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Consultant II
+8229010,8229000,Margins/Optimizations - Attrition,Attrition Percentage,,Consultant II
+8229011,8229000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Consultant II
+8229012,8229000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Consultant II
+8229013,8229000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Consultant II
+8229014,8229000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Consultant II
+8229015,8229000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Consultant II
+8229016,8229000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Consultant II
+8229017,8229000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",20,Consultant II
+8229018,8229000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Consultant II
+8229019,8229000,Employee Experience - Employee Satisfaction,ESAT Index,5,Consultant II
+8229020,8229000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Consultant II
+8229021,8229000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Consultant II
+8230001,8230000,Customer Delight - Customer Satisfaction,CSAT Index,10,Associate Specialist I
+8230002,8230000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Specialist I
+8230003,8230000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Specialist I
+8230004,8230000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Specialist I
+8230005,8230000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Specialist I
+8230006,8230000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Specialist I
+8230007,8230000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Specialist I
+8230008,8230000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Specialist I
+8230009,8230000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Specialist I
+8230010,8230000,Margins/Optimizations - Attrition,Attrition Percentage,,Associate Specialist I
+8230011,8230000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Specialist I
+8230012,8230000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Specialist I
+8230013,8230000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Specialist I
+8230014,8230000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Specialist I
+8230015,8230000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Specialist I
+8230016,8230000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Specialist I
+8230017,8230000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",20,Associate Specialist I
+8230018,8230000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Associate Specialist I
+8230019,8230000,Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Specialist I
+8230020,8230000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Associate Specialist I
+8230021,8230000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Specialist I
+8231001,8231000,Customer Delight - Customer Satisfaction,CSAT Index,10,Consultant I
+8231002,8231000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Consultant I
+8231003,8231000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Consultant I
+8231004,8231000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Consultant I
+8231005,8231000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Consultant I
+8231006,8231000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Consultant I
+8231007,8231000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Consultant I
+8231008,8231000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Consultant I
+8231009,8231000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Consultant I
+8231010,8231000,Margins/Optimizations - Attrition,Attrition Percentage,,Consultant I
+8231011,8231000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Consultant I
+8231012,8231000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Consultant I
+8231013,8231000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Consultant I
+8231014,8231000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Consultant I
+8231015,8231000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Consultant I
+8231016,8231000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Consultant I
+8231017,8231000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",20,Consultant I
+8231018,8231000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",5,Consultant I
+8231019,8231000,Employee Experience - Employee Satisfaction,ESAT Index,5,Consultant I
+8231020,8231000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",10,Consultant I
+8231021,8231000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Consultant I
+8232001,8232000,Customer Delight - Customer Satisfaction,CSAT Index,5,Associate Consultant
+8232002,8232000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Consultant
+8232003,8232000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Consultant
+8232004,8232000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Consultant
+8232005,8232000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Consultant
+8232006,8232000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Consultant
+8232007,8232000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Consultant
+8232008,8232000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Consultant
+8232009,8232000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Consultant
+8232010,8232000,Margins/Optimizations - Attrition,Attrition Percentage,,Associate Consultant
+8232011,8232000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Consultant
+8232012,8232000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Consultant
+8232013,8232000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Consultant
+8232014,8232000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Consultant
+8232015,8232000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Consultant
+8232016,8232000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Consultant
+8232017,8232000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Associate Consultant
+8232018,8232000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",10,Associate Consultant
+8232019,8232000,Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Consultant
+8232020,8232000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",15,Associate Consultant
+8232021,8232000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Consultant
+8233001,8233000,Customer Delight - Customer Satisfaction,CSAT Index,5,Trainee
+8233002,8233000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Trainee
+8233003,8233000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Trainee
+8233004,8233000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Trainee
+8233005,8233000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Trainee
+8233006,8233000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Trainee
+8233007,8233000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Trainee
+8233008,8233000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Trainee
+8233009,8233000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Trainee
+8233010,8233000,Margins/Optimizations - Attrition,Attrition Percentage,,Trainee
+8233011,8233000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Trainee
+8233012,8233000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Trainee
+8233013,8233000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Trainee
+8233014,8233000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Trainee
+8233015,8233000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Trainee
+8233016,8233000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Trainee
+8233017,8233000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Trainee
+8233018,8233000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",10,Trainee
+8233019,8233000,Employee Experience - Employee Satisfaction,ESAT Index,5,Trainee
+8233020,8233000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",15,Trainee
+8233021,8233000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Trainee
+8234001,8234000,Customer Delight - Customer Satisfaction,CSAT Index,5,Associate Trainee
+8234002,8234000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Associate Trainee
+8234003,8234000,Growth/Scale - Revenue,Net new business from existing accounts (Budgeted at - <<Budgeted Revenue>>),,Associate Trainee
+8234004,8234000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - <<Budgeted OB>>),,Associate Trainee
+8234005,8234000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Associate Trainee
+8234006,8234000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Associate Trainee
+8234007,8234000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Associate Trainee
+8234008,8234000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Associate Trainee
+8234009,8234000,Margins/Optimizations - GM Target,Budgeted GM at <<Budgeted GM>>,,Associate Trainee
+8234010,8234000,Margins/Optimizations - Attrition,Attrition Percentage,,Associate Trainee
+8234011,8234000,Margins/Optimizations - People Quality Mix,"Grading Matrix - A+,A,B+,B,C - 5:15:60:15:5",,Associate Trainee
+8234012,8234000,Differentiated Delivery - Delivery Right First,Delivery Right First,15,Associate Trainee
+8234013,8234000,Differentiated Delivery - Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",5,Associate Trainee
+8234014,8234000,Differentiated Delivery - Engineering Excellence,"Engineering Excellence
+coding standards, peer review, easy to maintain code, superior unit coverage, sonarqube coverage as mandated by customer",10,Associate Trainee
+8234015,8234000,Differentiated Delivery - Continual Improvement Productivity,"Productivity in hrs/FP for waterfall project
+Story Point Throughput in SP/person day for Agile projects.
+Services projects productivity in terms of SET.
+Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure",20,Associate Trainee
+8234016,8234000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators built/harvested,,Associate Trainee
+8234017,8234000,Differentiated Delivery - Quality,"UAT defects, Period Closing, Rework, Payroll Run",15,Associate Trainee
+8234018,8234000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",10,Associate Trainee
+8234019,8234000,Employee Experience - Employee Satisfaction,ESAT Index,5,Associate Trainee
+8234020,8234000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",15,Associate Trainee
+8234021,8234000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Associate Trainee
+9235001,9235000,Customer Delight - Customer Satisfaction,CSAT Index,15%,Practice Manager
+9235002,9235000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Practice Manager
+9235003,9235000,Growth/Scale - Revenue,Net new business from existing accounts,10%,Practice Manager
+9235004,9235000,Growth/Scale - Order Book,Net new business from existing accounts (Budgeted at - $280m),,Practice Manager
+9235005,9235000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Practice Manager
+9235006,9235000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Practice Manager
+9235007,9235000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Practice Manager
+9235008,9235000,Margins/Optimizations - GM Target,Budgeted GM at x% (Percentage to be shared by manager),10%,Practice Manager
+9235009,9235000,Margins/Optimizations - Attrition,Attrition Percentage,,Practice Manager
+9235010,9235000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Practice Manager
+9235011,9235000,Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",10%,Practice Manager
+9235012,9235000,Differentiated Delivery - Productivity,Sum of % Billable and Internal Non billable Approved Utilization annually.Measured based on timesheet data.,10%,Practice Manager
+9235013,9235000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Practice Manager
+9235014,9235000,Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",5%,Practice Manager
+9235015,9235000,Employee Experience - Employee Satisfaction,ESAT Index,15%,Practice Manager
+9235016,9235000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Practice Manager
+9235017,9235000,Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",25%,Practice Manager
+9235018,9235000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Practice Manager
+8236001,8236000,Customer Delight - Customer Satisfaction,CSAT Index,10%,Project Manager (all regions except ME)
+8236002,8236000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Project Manager (all regions except ME)
+8236003,8236000,Growth/Scale - Revenue,Achievement of revenue target,20%,Project Manager (all regions except ME)
+8236004,8236000,Growth/Scale - Order Book,Achievement of upsell target,20%,Project Manager (all regions except ME)
+8236005,8236000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Project Manager (all regions except ME)
+8236006,8236000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Project Manager (all regions except ME)
+8236007,8236000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Project Manager (all regions except ME)
+8236008,8236000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Project Manager (all regions except ME)
+8236009,8236000,Margins/Optimizations - GM Target,Achevement of GM targets,25%,Project Manager (all regions except ME)
+8236010,8236000,Margins/Optimizations - Attrition,Attrition Percentage,,Project Manager (all regions except ME)
+8236011,8236000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Project Manager (all regions except ME)
+8236012,8236000,Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Project Manager (all regions except ME)
+8236013,8236000,Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Project Manager (all regions except ME)
+8236014,8236000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Project Manager (all regions except ME)
+8236015,8236000,Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",15%,Project Manager (all regions except ME)
+8236016,8236000,Employee Experience - Employee Satisfaction,ESAT Index,10%,Project Manager (all regions except ME)
+8236017,8236000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Project Manager (all regions except ME)
+8236018,8236000,Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,Project Manager (all regions except ME)
+8236019,8236000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Project Manager (all regions except ME)
+8237001,8237000,Customer Delight - Customer Satisfaction,CSAT Index,10%,Project Manager (ME)
+8237002,8237000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Project Manager (ME)
+8237003,8237000,Growth/Scale - Revenue,Achievement of revenue target,25%,Project Manager (ME)
+8237004,8237000,Growth/Scale - Order Book,Achievement of upsell target,,Project Manager (ME)
+8237005,8237000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Project Manager (ME)
+8237006,8237000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Project Manager (ME)
+8237007,8237000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Project Manager (ME)
+8237008,8237000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,20%,Project Manager (ME)
+8237009,8237000,Margins/Optimizations - GM Target,Achevement of GM targets,30%,Project Manager (ME)
+8237010,8237000,Margins/Optimizations - Attrition,Attrition Percentage,,Project Manager (ME)
+8237011,8237000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Project Manager (ME)
+8237012,8237000,Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Project Manager (ME)
+8237013,8237000,Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Project Manager (ME)
+8237014,8237000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Project Manager (ME)
+8237015,8237000,Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",15%,Project Manager (ME)
+8237016,8237000,Employee Experience - Employee Satisfaction,ESAT Index,,Project Manager (ME)
+8237017,8237000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Project Manager (ME)
+8237018,8237000,Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,Project Manager (ME)
+8237019,8237000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Project Manager (ME)
+8238001,8238000,Customer Delight - Customer Satisfaction,CSAT Index,20%,Program Manager (all regions except ME)
+8238002,8238000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Program Manager (all regions except ME)
+8238003,8238000,Growth/Scale - Revenue,Achievement of revenue target,20%,Program Manager (all regions except ME)
+8238004,8238000,Growth/Scale - Order Book,Achievement of upsell target,,Program Manager (all regions except ME)
+8238005,8238000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Program Manager (all regions except ME)
+8238006,8238000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Program Manager (all regions except ME)
+8238007,8238000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Program Manager (all regions except ME)
+8238008,8238000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Program Manager (all regions except ME)
+8238009,8238000,Margins/Optimizations - GM Target,Achevement of GM targets,30%,Program Manager (all regions except ME)
+8238010,8238000,Margins/Optimizations - Attrition,Attrition Percentage,,Program Manager (all regions except ME)
+8238011,8238000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Program Manager (all regions except ME)
+8238012,8238000,Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Program Manager (all regions except ME)
+8238013,8238000,Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Program Manager (all regions except ME)
+8238014,8238000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Program Manager (all regions except ME)
+8238015,8238000,Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",10%,Program Manager (all regions except ME)
+8238016,8238000,Employee Experience - Employee Satisfaction,ESAT Index,5%,Program Manager (all regions except ME)
+8238017,8238000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Program Manager (all regions except ME)
+8238018,8238000,Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",10%,Program Manager (all regions except ME)
+8238019,8238000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",5%,Program Manager (all regions except ME)
+8239001,8239000,Customer Delight - Customer Satisfaction,CSAT Index,15%,Program Manager (ME)
+8239002,8239000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Program Manager (ME)
+8239003,8239000,Growth/Scale - Revenue,Achievement of revenue target,20%,Program Manager (ME)
+8239004,8239000,Growth/Scale - Order Book,Achievement of upsell target,,Program Manager (ME)
+8239005,8239000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Program Manager (ME)
+8239006,8239000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Program Manager (ME)
+8239007,8239000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Program Manager (ME)
+8239008,8239000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,10%,Program Manager (ME)
+8239009,8239000,Margins/Optimizations - GM Target,Achevement of GM targets,35%,Program Manager (ME)
+8239010,8239000,Margins/Optimizations - Attrition,Attrition Percentage,,Program Manager (ME)
+8239011,8239000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Program Manager (ME)
+8239012,8239000,Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Program Manager (ME)
+8239013,8239000,Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Program Manager (ME)
+8239014,8239000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Program Manager (ME)
+8239015,8239000,Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",10%,Program Manager (ME)
+8239016,8239000,Employee Experience - Employee Satisfaction,ESAT Index,10%,Program Manager (ME)
+8239017,8239000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Program Manager (ME)
+8239018,8239000,Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,Program Manager (ME)
+8239019,8239000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Program Manager (ME)
+8240001,8240000,Customer Delight - Customer Satisfaction,CSAT Index,25%,SDM (all regions except ME)
+8240002,8240000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,SDM (all regions except ME)
+8240003,8240000,Growth/Scale - Revenue,Achievement of revenue target,20%,SDM (all regions except ME)
+8240004,8240000,Growth/Scale - Order Book,Achievement of upsell target,10%,SDM (all regions except ME)
+8240005,8240000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,SDM (all regions except ME)
+8240006,8240000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,SDM (all regions except ME)
+8240007,8240000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,SDM (all regions except ME)
+8240008,8240000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,SDM (all regions except ME)
+8240009,8240000,Margins/Optimizations - GM Target,Achevement of GM targets,20%,SDM (all regions except ME)
+8240010,8240000,Margins/Optimizations - Attrition,Attrition Percentage,,SDM (all regions except ME)
+8240011,8240000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,SDM (all regions except ME)
+8240012,8240000,Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,SDM (all regions except ME)
+8240013,8240000,Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,SDM (all regions except ME)
+8240014,8240000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,SDM (all regions except ME)
+8240015,8240000,Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",10%,SDM (all regions except ME)
+8240016,8240000,Employee Experience - Employee Satisfaction,ESAT Index,15%,SDM (all regions except ME)
+8240017,8240000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,SDM (all regions except ME)
+8240018,8240000,Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,SDM (all regions except ME)
+8240019,8240000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,SDM (all regions except ME)
+8241001,8241000,Customer Delight - Customer Satisfaction,CSAT Index,15%,SDM (ME)
+8241002,8241000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,SDM (ME)
+8241003,8241000,Growth/Scale - Revenue,Achievement of revenue target,20%,SDM (ME)
+8241004,8241000,Growth/Scale - Order Book,Achievement of upsell target,,SDM (ME)
+8241005,8241000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,SDM (ME)
+8241006,8241000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,SDM (ME)
+8241007,8241000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,SDM (ME)
+8241008,8241000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,15%,SDM (ME)
+8241009,8241000,Margins/Optimizations - GM Target,Achevement of GM targets,30%,SDM (ME)
+8241010,8241000,Margins/Optimizations - Attrition,Attrition Percentage,,SDM (ME)
+8241011,8241000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,SDM (ME)
+8241012,8241000,Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,SDM (ME)
+8241013,8241000,Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,SDM (ME)
+8241014,8241000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,SDM (ME)
+8241015,8241000,Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",10%,SDM (ME)
+8241016,8241000,Employee Experience - Employee Satisfaction,ESAT Index,10%,SDM (ME)
+8241017,8241000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,SDM (ME)
+8241018,8241000,Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,SDM (ME)
+8241019,8241000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,SDM (ME)
+8242001,8242000,Customer Delight - Customer Satisfaction,CSAT Index,20%,Onsite Regional Leader (all regions except ME)
+8242002,8242000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Onsite Regional Leader (all regions except ME)
+8242003,8242000,Growth/Scale - Revenue,Achievement of revenue target,30%,Onsite Regional Leader (all regions except ME)
+8242004,8242000,Growth/Scale - Order Book,Achievement of upsell target,,Onsite Regional Leader (all regions except ME)
+8242005,8242000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Onsite Regional Leader (all regions except ME)
+8242006,8242000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Onsite Regional Leader (all regions except ME)
+8242007,8242000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Onsite Regional Leader (all regions except ME)
+8242008,8242000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Onsite Regional Leader (all regions except ME)
+8242009,8242000,Margins/Optimizations - GM Target,Achevement of GM targets,30%,Onsite Regional Leader (all regions except ME)
+8242010,8242000,Margins/Optimizations - Attrition,Attrition Percentage,,Onsite Regional Leader (all regions except ME)
+8242011,8242000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Onsite Regional Leader (all regions except ME)
+8242012,8242000,Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Onsite Regional Leader (all regions except ME)
+8242013,8242000,Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Onsite Regional Leader (all regions except ME)
+8242014,8242000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Onsite Regional Leader (all regions except ME)
+8242015,8242000,Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",5%,Onsite Regional Leader (all regions except ME)
+8242016,8242000,Employee Experience - Employee Satisfaction,ESAT Index,10%,Onsite Regional Leader (all regions except ME)
+8242017,8242000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Onsite Regional Leader (all regions except ME)
+8242018,8242000,Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",5%,Onsite Regional Leader (all regions except ME)
+8242019,8242000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Onsite Regional Leader (all regions except ME)
+8243001,8243000,Customer Delight - Customer Satisfaction,CSAT Index,15%,Onsite Regional Leader (ME)
+8243002,8243000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Onsite Regional Leader (ME)
+8243003,8243000,Growth/Scale - Revenue,Achievement of revenue target,30%,Onsite Regional Leader (ME)
+8243004,8243000,Growth/Scale - Order Book,Achievement of upsell target,,Onsite Regional Leader (ME)
+8243005,8243000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Onsite Regional Leader (ME)
+8243006,8243000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Onsite Regional Leader (ME)
+8243007,8243000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Onsite Regional Leader (ME)
+8243008,8243000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,5%,Onsite Regional Leader (ME)
+8243009,8243000,Margins/Optimizations - GM Target,Achevement of GM targets,35%,Onsite Regional Leader (ME)
+8243010,8243000,Margins/Optimizations - Attrition,Attrition Percentage,,Onsite Regional Leader (ME)
+8243011,8243000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Onsite Regional Leader (ME)
+8243012,8243000,Differentiated Delivery - Quality,"1. UAT defects, 2. Period Closing, 3. Rework, 4. Payroll Run, 5. Configuration-No of Iterations/Rework, 6. Integration /Reports/DM- No of Iterations/Rework/SIT Defects/QC, 7. Extension- No of Iterations/Rework/SIT Defects/QC 8. Testing - No of bugs/Defects found/QC",,Onsite Regional Leader (ME)
+8243013,8243000,Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Onsite Regional Leader (ME)
+8243014,8243000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Onsite Regional Leader (ME)
+8243015,8243000,Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",5%,Onsite Regional Leader (ME)
+8243016,8243000,Employee Experience - Employee Satisfaction,ESAT Index,10%,Onsite Regional Leader (ME)
+8243017,8243000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Onsite Regional Leader (ME)
+8243018,8243000,Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",,Onsite Regional Leader (ME)
+8243019,8243000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Onsite Regional Leader (ME)
+8244001,8244000,Customer Delight - Customer Satisfaction,CSAT Index,10%,Offshore Regional Leader (all regions except ME)
+8244002,8244000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Offshore Regional Leader (all regions except ME)
+8244003,8244000,Growth/Scale - Revenue,Achievement of revenue target,20%,Offshore Regional Leader (all regions except ME)
+8244004,8244000,Growth/Scale - Order Book,Achievement of upsell target,,Offshore Regional Leader (all regions except ME)
+8244005,8244000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Offshore Regional Leader (all regions except ME)
+8244006,8244000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Offshore Regional Leader (all regions except ME)
+8244007,8244000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Offshore Regional Leader (all regions except ME)
+8244008,8244000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Offshore Regional Leader (all regions except ME)
+8244009,8244000,Margins/Optimizations - GM Target,Achevement of GM targets,30%,Offshore Regional Leader (all regions except ME)
+8244010,8244000,Margins/Optimizations - Attrition,Attrition Percentage,,Offshore Regional Leader (all regions except ME)
+8244011,8244000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Offshore Regional Leader (all regions except ME)
+8244012,8244000,Differentiated Delivery - Quality,Refer Qaulity Defination,15%,Offshore Regional Leader (all regions except ME)
+8244013,8244000,Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Offshore Regional Leader (all regions except ME)
+8244014,8244000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Offshore Regional Leader (all regions except ME)
+8244015,8244000,Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",5%,Offshore Regional Leader (all regions except ME)
+8244016,8244000,Employee Experience - Employee Satisfaction,ESAT Index,10%,Offshore Regional Leader (all regions except ME)
+8244017,8244000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Offshore Regional Leader (all regions except ME)
+8244018,8244000,Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",10%,Offshore Regional Leader (all regions except ME)
+8244019,8244000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Offshore Regional Leader (all regions except ME)
+8245001,8245000,Customer Delight - Customer Satisfaction,CSAT Index,10%,Offshore Regional Leader (ME)
+8245002,8245000,Customer Delight - Value Based Delivery,% of Existing Accounts New Business contracted as VBD,,Offshore Regional Leader (ME)
+8245003,8245000,Growth/Scale - Revenue,Achievement of revenue target,20%,Offshore Regional Leader (ME)
+8245004,8245000,Growth/Scale - Order Book,Achievement of upsell target,,Offshore Regional Leader (ME)
+8245005,8245000,Growth/Scale - On Time Fulfillment,Requisition to Fulfillment,,Offshore Regional Leader (ME)
+8245006,8245000,Growth/Scale - Delivery Led Growth,# of Account mining into existing accounts (Cross Sell),,Offshore Regional Leader (ME)
+8245007,8245000,Growth/Scale - Managed Services,% of EANB revenue into Annuity,,Offshore Regional Leader (ME)
+8245008,8245000,Growth/Scale - Collection,Timely collection against the invoice raised to Client.,,Offshore Regional Leader (ME)
+8245009,8245000,Margins/Optimizations - GM Target,Achevement of GM targets,35%,Offshore Regional Leader (ME)
+8245010,8245000,Margins/Optimizations - Attrition,Attrition Percentage,,Offshore Regional Leader (ME)
+8245011,8245000,Differentiated Delivery - Assets/Accelerators,# of Delivery Assets & Accelerators,,Offshore Regional Leader (ME)
+8245012,8245000,Differentiated Delivery - Quality,Refer Qaulity Defination,10%,Offshore Regional Leader (ME)
+8245013,8245000,Differentiated Delivery - Productivity,Allocated Man-Days at the time of Kick-Off v/s Actual Man-Days at the time of Project Closure,,Offshore Regional Leader (ME)
+8245014,8245000,Differentiated Delivery - Standardization,"Manager sets quarterly Standardization Target for the Team, 
+if the target gets completed then kpi is achieved. (1-5 Score)",,Offshore Regional Leader (ME)
+8245015,8245000,Differentiated Delivery - Compliance,"Compliance (Processes, Trainings, Audits etc….)",5%,Offshore Regional Leader (ME)
+8245016,8245000,Employee Experience - Employee Satisfaction,ESAT Index,10%,Offshore Regional Leader (ME)
+8245017,8245000,Employee Experience - Internal Fulfillment,% of requisition to fulfillment,,Offshore Regional Leader (ME)
+8245018,8245000,Employee Experience - People Quality Mix,"Grading Matrix Target ratio - A+,A,B+,B,C - 5:15:60:15:5",10%,Offshore Regional Leader (ME)
+8245019,8245000,Employee Experience - Learning,"Manager sets quarterly Learning Goal for the Team, 
+if the goal gets completed then kpi is achieved. (1-5 Score)",,Offshore Regional Leader (ME)
+8311001,8311000,Order Book - Contract Order Book for Implementations and Annual contract value (ACV) for Support. For Third Party Licenses or Services 2x of Gross Margin,,80%,Sales Team
+8311002,8311000,Order Booking/ Revenue Booking against the target,,20%,Sales Team
+8312001,8312000,Order Book - Contract Order Book for Implementations and Annual contract value (ACV) for Support. For Third Party Licenses or Services 2x of Gross Margin,,70%,PreSales Team
+8312002,8312000,Win Ratio - Won Proposals / Total Proposals,,20%,PreSales Team
+8312003,8312000,Estimated Gross Margin  to Actual Gross Margin  - Accuracy of Estimated Gross Margin  to Actual Gross Margin,,10%,PreSales Team
+8313001,8313000,Order Book - Contract New Order Book for Implementations and Annual contract value (ACV) for Support. For Third Party Licenses or Services 2x of Gross Margin,,,Account Manager/ Client Partner
+8313002,8313000,Order Booking/ Revenue Booking against the target,,,Account Manager/ Client Partner
+8313003,8313000,Gross Margin - GM 1,,,Account Manager/ Client Partner
+8313004,8313000,Customer Delight - Customer Satisfaction,CSAT Index,15%,Account Manager/ Client Partner
+8313005,8313000,Process Compliance,"Compliance (Processes, Trainings, Audits etc….)",,Account Manager/ Client Partner
+8313006,8313000,Growth/Scale - Revenue,Net new business from existing accounts,,Account Manager/ Client Partner
+8313007,8313000,Growth/Scale - Order Book,Achievement of upsell target,,Account Manager/ Client Partner
